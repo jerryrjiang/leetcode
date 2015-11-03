@@ -1,4 +1,3 @@
-#╤сап
 class Queue:
     def __init__(self,size = 16):
         self.queue = []
